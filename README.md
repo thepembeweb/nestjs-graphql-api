@@ -4,8 +4,6 @@
 
 <img src="src/assets/images/project-logo.png" alt="Node.js Best Practices">
 
-## [Version 7.5.0](https://github.com/thepembeweb/nestjsv7.5.0.git)
-
 ## Table of Contents
 
 - [Structure](#structure)
@@ -295,8 +293,6 @@
 [✔️] 6.25. Avoid publishing secrets to the npm registry
 
 ### 7. Performance Best Practices
-
-Our contributors are working on this section. [Would you like to join?](https://github.com/i0natan/nodebestpractices/issues/256)
 
 [✔️] 7.1. Prefer native JS methods over user-land utils like Lodash
 
